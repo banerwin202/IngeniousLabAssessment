@@ -1,0 +1,178 @@
+ {
+   
+    "users": [
+
+        {
+            "avatar": "https://imglink.io/ib/swZdR2Bjqt.png",
+            "name": "John",
+            "phone" : "01212341212",
+            "isActive": true,
+            "id": 1
+
+        },
+
+
+        {
+            "avatar": "https://imglink.io/ib/GlET62uIoN.png",
+            "name": "Mary",
+            "phone": "01212345134455",
+            "isActive": false,
+            "id": 2
+
+        },
+     
+        {
+            "avatar": "https://imglink.io/ib/24VDlcbVoF.png",
+            "name": "Max",
+            "phone": "01212345135566",
+            "isActive": true,
+            "id": 3
+
+        },
+
+
+        {
+            "avatar": "https://imglink.io/ib/D3ybfUVqO8.png",
+            "name": "Joyce",
+            "phone": "01212345134444",
+            "isActive": true,
+            "id": 4
+
+        },
+
+        {
+            "avatar": "https://imglink.io/ib/1b7YXAgtbD.png",
+            "name": "John Doe",
+            "phone": "01212345136666",
+            "isActive": false,
+            "id": 5
+
+        },
+
+        {
+            "avatar": "https://imglink.io/ib/IewG2SqDOy.png",
+            "name": "Linsy",
+            "phone": "0121234513777",
+            "isActive": true,
+            "id": 6
+
+        },
+
+
+        {
+            "avatar": "https://imglink.io/ib/evtQh3ponI.png",
+            "name": "Clement",
+            "phone": "0121234513888",
+            "isActive": true,
+            "id": 7
+
+        },
+
+        {
+            "avatar": "https://imglink.io/ib/HGM2dAPeD0.png",
+            "name": "Liz",
+            "phone": "0121234513999",
+            "isActive": true,
+            "id": 8
+
+        }
+   
+
+    ],
+
+    "userDetails": [
+
+        {
+            "avatar": "https://imglink.io/ib/swZdR2Bjqt.png",
+            "name": "John",
+            "phone" : "0121234513",
+            "email" : "john@gmail.com",
+            "description" : "Hi I am John",
+            "id": 1
+
+        },
+
+
+        {
+            "avatar": "https://imglink.io/ib/GlET62uIoN.png",
+            "name": "Mary",
+            "phone": "0121234513",
+            "email" : "mary@gmail.com",
+            "description" : "Hi I am Mary",
+            "id": 2
+
+        },
+     
+        {
+            "avatar": "https://imglink.io/ib/24VDlcbVoF.png",
+            "name": "Max",
+            "phone": "0121234513",
+            "email" : "max@gmail.com",
+            "description" : "Hi I am Max",
+            "id": 3
+
+        },
+
+
+        {
+            "avatar": "https://imglink.io/ib/D3ybfUVqO8.png",
+            "name": "Joyce",
+            "phone": "0121234513",
+            "email" : "Joyce@gmail.com",
+            "description" : "Hi I am Joyce",
+            "id": 4
+
+        },
+
+        {
+            "avatar": "https://imglink.io/ib/1b7YXAgtbD.png",
+            "name": "John Doe",
+            "phone": "0121234513",
+            "email" : "john_doe@gmail.com",
+            "description" : "Hi I am Doe",
+            "id": 5
+
+        },
+
+        {
+            "avatar": "https://imglink.io/ib/IewG2SqDOy.png",
+            "name": "Linsy",
+            "phone": "0121234513",
+            "email" : "Linsy@gmail.com",
+            "description" : "Hi I am Linsy",
+            "id": 6
+
+        },
+
+
+        {
+            "avatar": "https://imglink.io/ib/evtQh3ponI.png",
+            "name": "Clement",
+            "phone": "0121234513",
+            "email" : "Clement@gmail.com",
+            "description" : "Hi I am Clement",
+            "id": 7
+
+        },
+
+        {
+            "avatar": "https://imglink.io/ib/HGM2dAPeD0.png",
+            "name": "Liz",
+            "phone": "0121234513",
+            "email" : "Liz@gmail.com",
+            "description" : "Hi I am Liz",
+            "id": 8
+
+        }
+   
+
+    ]
+
+   
+
+ }
+
+
+
+
+    
