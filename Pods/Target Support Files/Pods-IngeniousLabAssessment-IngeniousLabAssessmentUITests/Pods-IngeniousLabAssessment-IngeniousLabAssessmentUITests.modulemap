@@ -1,0 +1,6 @@
+framework module Pods_IngeniousLabAssessment_IngeniousLabAssessmentUITests {
+  umbrella header "Pods-IngeniousLabAssessment-IngeniousLabAssessmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

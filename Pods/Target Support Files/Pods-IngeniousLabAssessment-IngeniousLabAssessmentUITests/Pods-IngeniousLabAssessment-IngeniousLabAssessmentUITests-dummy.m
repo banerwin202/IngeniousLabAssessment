@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_IngeniousLabAssessment_IngeniousLabAssessmentUITests : NSObject
+@end
+@implementation PodsDummy_Pods_IngeniousLabAssessment_IngeniousLabAssessmentUITests
+@end
